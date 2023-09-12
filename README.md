@@ -11,6 +11,11 @@
 <li> Clone</li>
 <li> Add </li>
 </ul>
-
+<br/><br/>
 
 <h3>Estudio de los emojis y sus significado</h3>
+
+
+<br/><br/>
+<h4>Conventional Commit</h4>
+<p>Instala la extension "Conventional Commit", esto ayudara a crear los commits mas facil por medio del (control de codigo de fuente) </p>
