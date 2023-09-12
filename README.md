@@ -4,3 +4,10 @@
 <h4> Importante! </h4>
 <p> Es importante hacer la configuracion basica de agregar el usuario y el email. Esto con el fin de hacer los commits con nuestro usuario.</p>
 
+<h5>Comandos Necesarios</h5>
+<ul>
+<li> Push</li>
+<li> Pull</li>
+<li> Clone</li>
+<li> Add </li>
+</ul>
