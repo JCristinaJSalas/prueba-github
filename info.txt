@@ -1,1 +1,5 @@
-Esto es un ejemplo para practicar con el repocitorio
+Esto es un ejemplo para practicar con el repositorio
+
+Es importante hacer la configuracion basica en la terminal con los comandos ...
+git config --global user.name"JCristinaJSalas"
+git config --global user.email"criistiinajerez@gmail.com"
